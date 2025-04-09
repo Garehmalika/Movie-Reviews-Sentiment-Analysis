@@ -46,8 +46,7 @@ Le projet est structuré comme suit :
 ```
 Sentiment_Analysis_Movies/
 ├── data/
-│   ├── train_data.csv      # Jeu de données d'entraînement
-│   ├── test_data.csv       # Jeu de données de test
+│ 
 ├── models/
 │   ├── logistic_regression_model.pkl  # Modèle de régression logistique entraîné
 │   ├── lstm_model.h5                 # Modèle LSTM entraîné
