@@ -1,0 +1,1 @@
+la base de données est disponible dans le lien suivant :https://www.kaggle.com/code/hasnaehmidani/text-mining-movie-rec/input
