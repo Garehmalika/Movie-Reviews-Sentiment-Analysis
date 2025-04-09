@@ -1,4 +1,4 @@
-Voici un exemple détaillé de fichier README pour votre projet d'analyse des sentiments pour les films :
+
 
 ---
 
