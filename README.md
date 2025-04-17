@@ -88,4 +88,3 @@ Les modèles entraînés sont sauvegardés dans le dossier `models/` :
 
 
 
-## Résultats et Comparaison des Modèles
